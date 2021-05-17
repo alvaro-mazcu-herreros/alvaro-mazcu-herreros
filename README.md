@@ -1,5 +1,7 @@
 ### Hi there!!!
 
+I'm a Data Science student at the Polithecnic University of Valencia (UPV)
+
 <!--
 **alvaro-mazcu-herreros/alvaro-mazcu-herreros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
