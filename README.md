@@ -13,9 +13,6 @@ I'm a Data Science student at the Polithecnic University of Valencia (UPV)
 
 <br>
 
-<p><img align="right" src="https://i.gifer.com/7RS5.gif" alt="alvaro-mazcu-herreros" /></p>
-
-
 - 🌱 I’m currently learning Backend Developement and data science application in sports
 
 - 📫 Contact me at **alvaromazcujobs@gmail.com**
