@@ -30,7 +30,7 @@ I'm a Data Science student at the Polithecnic University of Valencia (UPV)
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="alvaro-mazcu-herreros" height="30" width="40" /></a>
 </p>
-
+<!--
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
