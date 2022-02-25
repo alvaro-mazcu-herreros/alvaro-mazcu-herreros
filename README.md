@@ -19,6 +19,8 @@ I'm a Data Science student at the Polithecnic University of Valencia (UPV)
 
 - 🏎 Formula 1 is the greatest sport (don't try to change my mind)
 
+- ❤️ Crypto lover & BTC hodler
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
